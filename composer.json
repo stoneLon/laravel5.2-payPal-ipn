@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "Fahim\\PaypalIPN\\": "src/"
+            "StoneLon\\PaypalIpn\\": "src/"
         }
     }
 }
