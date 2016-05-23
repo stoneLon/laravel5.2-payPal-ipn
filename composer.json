@@ -1,0 +1,14 @@
+{
+    "name": "stonelon/paypal-ipn",
+    "description": "laravel paypal ipn",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "drely",
+            "email": "longxin1104@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
